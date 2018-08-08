@@ -19,6 +19,7 @@ class Driver{
   }
   
   passengers(){
+    return store.passenger.map
   }
 }
 
