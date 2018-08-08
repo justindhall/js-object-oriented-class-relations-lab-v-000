@@ -8,6 +8,8 @@ class Driver{
   constructor(name){
     this.name = name;
     this.id = driverID++;
+    
+    store.drivers.push.this
   }
   
   trips(){
