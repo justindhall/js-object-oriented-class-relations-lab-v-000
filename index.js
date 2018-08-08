@@ -13,7 +13,9 @@ class Driver{
   }
   
   trips(){
-    return store.trips.filter(trip => )
+    return store.trips.filter(trip => {
+      
+    })
   }
   
   passengers(){
