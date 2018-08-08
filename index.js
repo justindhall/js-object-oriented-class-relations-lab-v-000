@@ -16,3 +16,21 @@ class Driver{
   passengers(){
   }
 }
+
+class Passenger{
+  constructor(name){
+    this.name = name;
+    this.id = passengerID++;
+  }
+  
+  trips(){
+  }
+  
+  drivers(){
+  }
+}
+
+class Trip{
+  constructor()
+}
+
