@@ -57,5 +57,8 @@ class Trip{
   
   driver(){
   }
+  
+  passenger(){
+  }
 }
 
