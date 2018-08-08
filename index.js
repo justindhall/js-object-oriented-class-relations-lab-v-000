@@ -34,6 +34,7 @@ class Passenger{
   }
   
   trips(){
+    return store.trips.filter(trip =>)
   }
   
   drivers(){
