@@ -1,4 +1,4 @@
-let store = []
+let store = [drivers: []]
 
 let driverID = 0;
 
