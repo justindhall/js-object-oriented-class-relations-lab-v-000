@@ -13,6 +13,7 @@ class Driver{
   }
   
   trips(){
+    return 
   }
   
   passengers(){
